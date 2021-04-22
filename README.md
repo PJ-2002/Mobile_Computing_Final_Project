@@ -1,4 +1,4 @@
-![final icon](https://user-images.githubusercontent.com/70349256/115797311-a21ffe80-a3a1-11eb-82bc-f2b4951fb8e3.jpg)
+![final caput](https://user-images.githubusercontent.com/70349256/115798646-b9acb680-a3a4-11eb-9b65-94a675f61030.jpg)
 
 # 6-in-1 Calculator
 
