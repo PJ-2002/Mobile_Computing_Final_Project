@@ -60,7 +60,8 @@ Power units available for conversion are Watts, Kilowatts, Megawatts and Gigawat
 ### Calculator
 No application built for mathematical assitance could be complete without a calculator. The calculator in the 6-in-1 application provides a range of functions such as: basic mathematical opeerations, squared, multiplied, bodmas, negative numbers and decimal numbers.
 
-![final cal](https://user-images.githubusercontent.com/70349256/115795499-050f9680-a39e-11eb-8d0d-5d7512916993.gif)
+![output-onlinegiftools](https://user-images.githubusercontent.com/70349256/115795665-53249a00-a39e-11eb-8915-f00c1881ea58.gif)
+
 
 ## Manifest files
 The manifest file is a very important component; it describes essential information about an application to the Android build tools and operating system. <br/>
