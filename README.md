@@ -26,7 +26,7 @@ Being a student, one often comes across calculations that invlove converting a v
 - [FAQs](#FAQ)
 
 
-##  **Installation instructions** 🌈
+##  **Installation instructions** 
 
 This application is built for android mobile phones. You can download and install it via Google PlayStore. Each app supports specific Android version and newer versions. If the user is unsure, they can check with Google PlayStore to find out if the application is compatible with their device. If it is (compatible), the PlayStore will proceed with installation. Otherwise, to know android version compatibility for the 6-in-1 calculator the user can refer to the following Giphy: 
 
