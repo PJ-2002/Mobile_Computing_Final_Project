@@ -107,7 +107,8 @@ Avneet Kaur : akaur23@lakeheadu.ca
 
 ## TroubleShooting tips
 ![troubleshoot](https://user-images.githubusercontent.com/82283086/114631675-10bad900-9c8b-11eb-9b09-056f03349d47.png)
-If you incur any issues with the application, we suggest reinstalling the application. If the problem persists, (or if there is a bug you want to report) since the application is at its earlier development stages, kindly send us the query at any one email addresses provided above.
+
+If you encounter any issues with the application, we suggest reinstalling the application. If the problem persists, (or if there is a bug you want to report) since the application is at its earlier development stages, kindly send us the query at any one email addresses provided above.
 
 ## Credits and acknowledgements
 Dr Trevor Tomesh - Mentoring and guidance through whole project.
