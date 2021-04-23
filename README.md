@@ -46,7 +46,7 @@ A default screen with the calculator appears. A side window with all options pop
 Supported with the latest currency market values, you can convert and view between nine major currencies of the world; i.e. 81 different conversion rates. 
 Choose the currency you want to convert, from the drop down-menu on the left-hand side to the currency that you select from the drop-down menu on the right-hand side of the screen. The conversion is automated to reflect on the screen with no further instruction or assistance from the user.
 
-![currency](https://user-images.githubusercontent.com/70349256/115792221-e1e1e880-a397-11eb-986e-52f87ca71c34.jpeg) ![include](https://user-images.githubusercontent.com/70349256/115806827-7b6bc300-a3b5-11eb-9b8d-88a21d008362.JPG)
+![currency](https://user-images.githubusercontent.com/70349256/115792221-e1e1e880-a397-11eb-986e-52f87ca71c34.jpeg)    ![include](https://user-images.githubusercontent.com/70349256/115806827-7b6bc300-a3b5-11eb-9b8d-88a21d008362.JPG)
 
 
 
