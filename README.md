@@ -93,7 +93,7 @@ ___
             }
 ```
 
-## License
+## 📜 License
 Usage is provided under the [MIT License](https://opensource.org/licenses/MIT) License. See license for the full details
 
 ## Contact Information
