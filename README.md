@@ -6,7 +6,7 @@
 
 Being a student, one often comes across calculations that invlove converting a value from one standard unit to the other. The 6-in-1 calculator app is built essentially for this purpose. It provides major mathematical/computational convertors used frequently, all packed in one application, to save time as well as provide easy access to the user.
 
-## Table of Contents
+## 🚩Table of Contents
 - [Installation instructions](#Installation-instructions)
 - [App description](#App-description)
   1. [Currency](#Currency)
