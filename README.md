@@ -64,7 +64,8 @@ Power units available for conversion are Watts, Kilowatts, Megawatts and Gigawat
 ### Calculator
 No application built for mathematical assitance could be complete without a calculator. The calculator in the 6-in-1 application provides a range of functions such as: basic mathematical opeerations, squared, multiplied, bodmas, negative numbers and decimal numbers.
 
-![output-onlinegiftools](https://user-images.githubusercontent.com/70349256/115795665-53249a00-a39e-11eb-8915-f00c1881ea58.gif)
+![output-onlinegiftools](https://user-images.githubusercontent.com/70349256/115795665-53249a00-a39e-11eb-8915-f00c1881ea58.gif)  ![match](https://user-images.githubusercontent.com/70349256/115807808-4b252400-a3b7-11eb-9321-f73a450115c8.JPG)
+
 
 
 ## Manifest files
